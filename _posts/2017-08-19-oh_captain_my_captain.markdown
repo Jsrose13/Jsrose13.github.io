@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Oh Captain, My Captain!!"
-date:   2017-08-19 19:57:52 +0000
+title:  "Oh Captain, My Captain!"
+date:   2017-08-19 15:57:53 -0400
 ---
 
 ![](http://i.imgur.com/VCMWcHU.jpg)
 
-The first time I heard the words "Oh Captain, My Captain," was in eighth grade. Our new English teacher stood on a chair and said them loud and proud. I don't remember much from the eighth grade, but I remember watching Dead Poets Society with Robin Williams and deciding my life would be filled with adventure. At 13 who doesn't feel this way?  All the excitement and passion Mr.Keating awakened in the boys at Welton Academy was contagious. I had caught the Carpe diem fever and was ready to take on the world. I decided I wanted to be writer and director. I wanted to live the life all Americans dream of. When I grew up I wouldn't be stuck in a 9-5 I hated. At least that was the plan.
+The first time I heard the words "Oh Captain, My Captain," was in eighth grade. Our new English teacher stood on a chair and said them loud and proud. I don't remember much from the eighth grade, but I remember watching Dead Poets Society with Robin Williams and deciding my life would be filled with adventure. 
+
+At 13 who doesn't feel this way?  All the excitement and passion Mr.Keating awakened in the boys at Welton Academy was contagious. I had caught the Carpe diem fever and was ready to take on the world. I decided I wanted to be writer and director. I wanted to live the life all Americans dream of. When I grew up I wouldn't be stuck in a 9-5 I hated. At least that was the plan.
 
 **"Seize the day. Because believe it or not, each and every one of us in this room is one day going to stop breathing, turn cold and die." ** John Keating *Dead Poets Society*
 
