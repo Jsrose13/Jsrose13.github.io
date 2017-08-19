@@ -10,7 +10,7 @@ The first time I heard the words "Oh Captain, My Captain," was in eighth grade. 
 
 At 13 who doesn't feel this way?  All the excitement and passion Mr.Keating awakened in the boys at Welton Academy was contagious. I had caught the Carpe diem fever and was ready to take on the world. I decided I wanted to be writer and director. I wanted to live the life all Americans dream of. When I grew up I wouldn't be stuck in a 9-5 I hated. At least that was the plan.
 
-**"Seize the day. Because believe it or not, each and every one of us in this room is one day going to stop breathing, turn cold and die." ** John Keating *Dead Poets Society*
+**"Seize the day. Because believe it or not, each and every one of us in this room is one day going to stop breathing, turn cold and die." John Keating *Dead Poets Society***
 
 By age 31, I had a job I hated, and my outlook on life had changed. My Carpe diem fever had been broken by the responsibilities of adulting and the 2008 recession. It was replaced with a sense of economic survival and the common American virus, "Keeping up with the Jones." You know the one where you feel like you have to pursue the safe career, work countless hours so you can buy lots of stuff you don't need, miss out on the true joys of life, and die. 
 
