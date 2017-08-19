@@ -1,10 +1,10 @@
 # Site settings
-title: Mechanical Engineering + Computer Programming
+title: Oh Captain, My Captain
 header-img: img/home-bg.png
 email: jsrose13@gmail.com
 copyright_name: Jsrose13
 description: > # this means to ignore newlines until "baseurl:"
-  My journey to merge my passions and create a career I love.
+  My journey to create a life I love through software development.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Jsrose13
